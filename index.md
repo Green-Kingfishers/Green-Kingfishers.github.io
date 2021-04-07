@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
   <body>
     <h1>Bird Logger</h1>
