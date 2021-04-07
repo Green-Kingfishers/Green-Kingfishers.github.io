@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Green Kingfishers</title>
-  </head>
   <body>
     <h1>Bird Logger</h1>
 	<br>
