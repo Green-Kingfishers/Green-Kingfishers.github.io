@@ -28,6 +28,6 @@ Identify birds using our search tool, read about your favorite birds on our bird
 	<br>
 	<br>
 	<p style="font-size:160%;">Time Log</p>
-	<a href="Time Log Sheets Doc">https://docs.google.com/spreadsheets/d/1ZeeCeXSnp6pE-lKiBOXAxIRY0uXR4AtPUTuXlbYoYNE/edit?usp=sharing</a>
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUCq9R_24fv3nyZ05ca6T2dSRevAmCqlJ1QhUCQOcynAAtPueSZrWyTDJuMHW8F-cfkEcbxvBsfptG/pubhtml?widget=true&amp;headers=false"></iframe>
   </body>
 </html>
