@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
