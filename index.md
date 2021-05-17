@@ -21,17 +21,17 @@ Identify birds using our search tool, read about your favorite birds on our bird
 </p>
 	<br>
 	<p style="font-size:160%;">Our Website</p>
-	<a href="Website">http://www.birdlogger.org</a>
+	<a href="url">http://www.birdlogger.org</a>
 	<br>
 	<br>
 	<br>
 	<p style="font-size:160%;">Our Project Demo</p>
-	<a href="Website">https://www.youtube.com/watch?v=7iKv6v7Dm_w</a>
+	<a href="url">https://www.youtube.com/watch?v=7iKv6v7Dm_w</a>
 	<br>
 	<br>
 	<br>
 	<p style="font-size:160%;">Our RDP Demo</p>
-	<a href="Website">https://www.youtube.com/watch?v=bc-NaLhS0dw</a>
+	<a href="url">https://www.youtube.com/watch?v=bc-NaLhS0dw</a>
 	<br>
 	<br>
 	<br>
