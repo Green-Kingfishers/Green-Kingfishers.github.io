@@ -21,7 +21,7 @@ Identify birds using our search tool, read about your favorite birds on our bird
 </p>
 	<br>
 	<p style="font-size:160%;">Our Website</p>
-	<a href="Website">www.birdlogger.org</a>
+	<a href="Website">http://www.birdlogger.org</a>
 	<br>
 	<br>
 	<br>
